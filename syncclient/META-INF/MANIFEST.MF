@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ filesync%282%29.jar args4j-2.0.21.jar json_simple-
+ 1.1.jar
+Class-Path: .
+Rsrc-Main-Class: syncclient
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
